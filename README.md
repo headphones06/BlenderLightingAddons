@@ -1,5 +1,6 @@
 # BlenderLightingAddons
 これはライトを追加するBlenderのアドオンです。
+
 This is Blender's addon to add by Lights.
 
 アドオン使用前に、照明で照らしたいオブジェクトを選択しておく必要があります。
